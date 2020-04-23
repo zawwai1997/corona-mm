@@ -1,5 +1,5 @@
 <?php
-require_once 'L]5ug:AN)f$8{B"Z/core/init.php';
+require_once 'admin/core/init.php';
 
 $districtData = array();
 $hospitalData = array();
