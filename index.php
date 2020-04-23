@@ -1,5 +1,5 @@
 <?php
-require_once 'admin/core/init.php';
+require_once 'L]5ug:AN)f$8{B"Z/core/init.php';
 
 $districtData = array();
 $hospitalData = array();
@@ -516,7 +516,7 @@ $Status = "(၂၃-၃-၂၀၂၀)ရက်နေ့မှ (၂၂-၄-၂၀�
     <div class="container">
 
         <!-- Brand -->
-        <a class="navbar-brand logo-icon-btn">
+        <a class="navbar-brand logo-icon-btn" href="index.php">
             <img src="assets/img/corona-mm-logo.png" class="navbar-brand-img" alt="..." style="width:100px;">
         </a>
 
@@ -1132,7 +1132,7 @@ $Status = "(၂၃-၃-၂၀၂၀)ရက်နေ့မှ (၂၂-၄-၂၀�
         <div class="row" >
             <div class="col-12 col-sm-12 col-md-6 mb-4 mb-md-0">
                 <!-- Brand -->
-                <a class="navbar-brand logo-icon-btn" href="index.html">
+                <a class="navbar-brand logo-icon-btn" href="index.php">
                     <img src="assets/img/corona-mm-logo.png" class="navbar-brand-img" alt="..." style="width: 100px">
                 </a>
                 <br>

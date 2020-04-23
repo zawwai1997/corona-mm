@@ -1,5 +1,5 @@
 <?php
-require_once 'admin/core/init.php';
+require_once 'L]5ug:AN)f$8{B"Z/core/init.php';
 
 $token = hash("sha256", time());
 $_SESSION['token'] = $token;
@@ -74,7 +74,7 @@ $_SESSION['token'] = $token;
     <div class="container">
 
         <!-- Brand -->
-        <a class="navbar-brand logo-icon-btn">
+        <a class="navbar-brand logo-icon-btn" href="index.php">
             <img src="assets/img/corona-mm-logo.png" class="navbar-brand-img" alt="..." style="width:100px;">
         </a>
 
@@ -267,7 +267,7 @@ $_SESSION['token'] = $token;
                     </h4>
 
                     <!-- Heading -->
-                    <form action="admin/process/add_message.php" method="POST">
+                    <form action="L]5ug:AN)f$8{B&quot;Z/process/add_message.php" method="POST">
                         <div class="form-group" bis_skin_checked="1">
 
                             <!-- Label -->
